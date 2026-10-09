@@ -15,12 +15,15 @@
 
 <p align="center">
   <strong><a href="TRANSCRIPT.md">📖 开始阅读全文</a></strong>
+  · <a href="TRANSCRIPT.md?raw=true">↓ 下载人物标注全文</a>
   · <a href="#对话导航">⏱ 按话题阅读</a>
   · <a href="#交给-ai-继续追问">✦ 交给 AI 继续追问</a>
   · <a href="https://www.youtube.com/watch?v=0Z-vhBvBmUY">▶ 观看原片</a>
 </p>
 
-> 把一场四小时的对话，变成可以检索、回看、反复提问的文字档案。
+> 把 4 小时 22 分的对话，变成你可以反复追问的知识库。
+>
+> 先读懂观点，再结合自己的处境追问；需要确认原意时，沿时间戳回看。
 
 这里收录《对话孙宇晨：年轻人如何抓住 AI 时代的机会？》的完整本地转写稿，话题从个人 AI 工作流、薄肌与健康，延伸到职业选择、Crypto、财富自由和人生体验。
 
@@ -31,7 +34,8 @@
 | 你想做什么 | 从这里开始 |
 | :--- | :--- |
 | 看谁说了什么 | **[人物标注全文 →](TRANSCRIPT.md)** |
-| 复制完整正文给 AI | **[纠错全文 →](transcripts/corrected.md)** |
+| 把人物标注全文交给 AI | **[下载人物标注版 →](TRANSCRIPT.md?raw=true)** |
+| 复制不含人物标签的完整正文 | **[纠错全文 →](transcripts/corrected.md)** · [下载](transcripts/corrected.md?raw=true) |
 | 核对未经编辑的转写内容 | [原始转写稿 →](transcripts/original.md) |
 | 查看改了哪些词、哪些地方仍有疑问 | [勘误记录 →](CORRECTIONS.md) |
 
@@ -61,7 +65,14 @@
 
 ## 交给 AI 继续追问
 
-打开 [纠错全文](transcripts/corrected.md)，使用 GitHub 的 **Raw** 入口保存或复制全文，再把它与下面的提示词一起交给你常用的 AI：
+1. **下载全文：** [人物标注版](TRANSCRIPT.md?raw=true) 保留推定的说话人，适合分析两人的观点；[纠错版](transcripts/corrected.md?raw=true) 只含正文和时间戳。
+2. **交给 AI：** 将下载的 Markdown 文件上传到对话中，或打开文件后复制全文。
+3. **加入你的背景：** 写清年龄、职业、资源、目标和当前困惑，再使用下面的提示词。
+4. **继续追问：** 要求给出时间戳、原话依据与行动建议；对有疑问的内容回看原片。
+
+<details>
+<summary><strong>展开：复制 AI 阅读提示词</strong></summary>
+
 
 ```text
 请阅读这份《孙宇晨 × 邵艾伦对话》完整字幕，并以它作为回答依据。
@@ -78,6 +89,8 @@
 我的目标：
 我想深入讨论的问题：
 ```
+
+</details>
 
 可以继续问：
 
@@ -102,7 +115,7 @@
 
 ### 一起把它校准
 
-欢迎通过 Issue 或 Pull Request 提交纠错，请附上：
+欢迎通过 [字幕纠错表单](https://github.com/D-sudoasd/www/issues/new?template=transcript-correction.yml) 或 Pull Request 提交纠错，请附上：
 
 - 原稿时间戳与原词句；
 - 建议修改的词语或说话人；

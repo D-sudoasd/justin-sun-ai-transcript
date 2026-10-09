@@ -1,0 +1,45 @@
+name: 字幕与人物标注纠错
+description: 提交转写词语、说话人或时间戳的纠错依据。
+title: "[字幕纠错] "
+body:
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: 纠错类型
+      options:
+        - 转写词语
+        - 说话人归属
+        - 时间戳
+        - 其他内容问题
+    validations:
+      required: true
+  - type: input
+    id: timestamp
+    attributes:
+      label: 原稿时间戳
+      description: 填写原稿段落起点；知道更精确的视频秒数时可以一并补充。
+      placeholder: "00:16:11"
+    validations:
+      required: true
+  - type: textarea
+    id: original
+    attributes:
+      label: 当前词句或人物标注
+      description: 复制需要修正的原句及当前标注，便于定位。
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: 建议修改
+      description: 写出建议的词句、说话人或时间，不需要重写整个段落。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 原片依据
+      description: 请附视频时间链接，并说明听到的原词或辨别说话人的依据。
+      placeholder: "https://www.youtube.com/watch?v=0Z-vhBvBmUY&t=971s"
+    validations:
+      required: true
