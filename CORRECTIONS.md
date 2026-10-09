@@ -1,6 +1,6 @@
 # 勘误记录与人物标注说明
 
-[返回首页](README.md) · [人物标注全文](TRANSCRIPT.md) · [纠错全文](transcripts/corrected.md) · [原始转写稿](transcripts/original.md)
+[返回首页](README.md) · [人物标注全文](TRANSCRIPT.md) · [纠错全文](transcripts/corrected.md)
 
 ## 编辑边界
 

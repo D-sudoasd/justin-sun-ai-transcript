@@ -1,6 +1,6 @@
 # 孙宇晨 × 邵艾伦｜完整对话字幕
 
-[返回首页](README.md) · [纠错全文（无人物标注）](transcripts/corrected.md) · [原始转写稿](transcripts/original.md) · [勘误记录](CORRECTIONS.md)
+[返回首页](README.md) · [纠错全文（无人物标注）](transcripts/corrected.md) · [勘误记录](CORRECTIONS.md)
 
 > 邵艾伦为主持人，孙宇晨为嘉宾。以下所有人物归属均为**文本推定**，未逐句回听确认；不确定的短句标为**待核对**。
 >

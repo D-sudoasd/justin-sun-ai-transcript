@@ -27,7 +27,7 @@
 
 这里收录《对话孙宇晨：年轻人如何抓住 AI 时代的机会？》的完整本地转写稿，话题从个人 AI 工作流、薄肌与健康，延伸到职业选择、Crypto、财富自由和人生体验。
 
-**正文保留口头语、重复、数字与原始段落顺序。** 仅校正明确的转写错误，并将原始稿、纠错稿、人物标注版分别保留，方便阅读和逐项核对。
+**正文保留口头语、重复、数字与原始段落顺序。** 仅校正明确的转写错误，提供纠错全文、人物标注版和勘误记录，方便阅读和逐项核对。
 
 ### 选择一种读法
 
@@ -36,7 +36,6 @@
 | 看谁说了什么 | **[人物标注全文 →](TRANSCRIPT.md)** |
 | 把人物标注全文交给 AI | **[下载人物标注版 →](TRANSCRIPT.md?raw=true)** |
 | 复制不含人物标签的完整正文 | **[纠错全文 →](transcripts/corrected.md)** · [下载](transcripts/corrected.md?raw=true) |
-| 核对未经编辑的转写内容 | [原始转写稿 →](transcripts/original.md) |
 | 查看改了哪些词、哪些地方仍有疑问 | [勘误记录 →](CORRECTIONS.md) |
 
 人物标注版区分 **邵艾伦（主持人）** 与 **孙宇晨（嘉宾）**。所有归属均根据文本语义与问答关系推定，尚未逐句回听确认；不确定的短句标为 **待核对**。时间戳沿用原始 239 段的起点，不代表每一次换人的精确秒数。
@@ -115,7 +114,7 @@
 
 ### 一起把它校准
 
-欢迎通过 [字幕纠错表单](https://github.com/D-sudoasd/www/issues/new?template=transcript-correction.yml) 或 Pull Request 提交纠错，请附上：
+欢迎通过 [字幕纠错表单](https://github.com/D-sudoasd/justin-sun-ai-transcript/issues/new?template=transcript-correction.yml) 或 Pull Request 提交纠错，请附上：
 
 - 原稿时间戳与原词句；
 - 建议修改的词语或说话人；

@@ -1,6 +1,6 @@
 # 对话孙宇晨：年轻人如何抓住 AI 时代的机会？｜纠错全文
 
-[返回首页](../README.md) · [人物标注版](../TRANSCRIPT.md) · [原始转写稿](original.md) · [勘误记录](../CORRECTIONS.md)
+[返回首页](../README.md) · [人物标注版](../TRANSCRIPT.md) · [勘误记录](../CORRECTIONS.md)
 
 - 原片：https://www.youtube.com/watch?v=0Z-vhBvBmUY
 - 视频时长：4:22:29；原稿最后识别时间：04:22:28。
